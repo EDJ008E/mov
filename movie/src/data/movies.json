@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "rating": 8.8,
+      "poster": "https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w200/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w200/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+    }
+  ]
+  
